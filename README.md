@@ -4,10 +4,7 @@ Here is an instruction on installing all dependecies to make project work. As we
 Once the reposotory is cloned on your local machine and respective directory is pointed at in IDE's termninal, run:  
 
 Run following commands:  
-yarn init  
-yarn add --dev jest  
-yarn create jest@latest  
-yarn add --dev babel-jest @babel/core @babel/preset-env  
+yarn install    
 
 It is important to install Babel dependecy to make Jest "understand" modern syntax (in project's scope - export/import)  
 
