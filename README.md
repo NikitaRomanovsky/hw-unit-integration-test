@@ -11,4 +11,4 @@ It is important to install Babel dependecy to make Jest "understand" modern synt
 Once all dependecies are succesfully installed, you can run following command to execute test:  
 yarn test  
 
-It is expected that Jest "understands" import statement and all test are passed (green).  
+It is expected that all test are passed (green).  
