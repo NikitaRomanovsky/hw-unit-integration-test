@@ -1,4 +1,4 @@
-import { getRectangleArea, getRectanglePerimeter, getRectangleInfo } from '../js/rectangle.js'
+import { getRectangleArea, getRectanglePerimeter, getRectangleInfo } from '../ts/rectangle'
 
 it('Unit test for validating perimeter calculation', () => {
     const perimeter = getRectanglePerimeter(2, 4)
